@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodrCam
+- 👋 Hi, I’m Cameron Griffin
 - 👀 I’m interested in skiing, climbing, and coding.
 - 🌱 I’m currently learning at Code Fellows CyberSecurity course.
 - 💞️ I’m looking to collaborate on outdoor and inclusive projects.
