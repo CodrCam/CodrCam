@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cameron Griffin
 - 👀 I’m interested in skiing, climbing, and coding.
-- 🌱 I’m currently learning at Code Fellows CyberSecurity course.
+- 🌱 I’m currently learning at Code Fellows coding course.
 - 💞️ I’m looking to collaborate on outdoor and inclusive projects.
 - 📫 How to reach me: Instagram: @BackcountryCam
 
