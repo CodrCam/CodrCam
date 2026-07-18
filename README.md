@@ -21,7 +21,7 @@
 
 - 👨‍💻 I build web and mobile experiences with Python, JavaScript, Java, React, and Next.js.
 - 🏔️ I'm especially interested in technology for the outdoors, creative media, and snow science.
-- 🏎️ I built **F1 Career Bumps**, a Formula 1 data-visualization project exploring driver career trajectories.
+- 🏎️ I built [F1 Career Bumps](https://f1datadesktop.com/), a Formula 1 data-visualization project exploring driver career trajectories.
 - 🎙️ Recent work includes developing the digital home of [The Avalanche Hour](https://www.theavalanchehour.com/).
 - 🤝 I'm always interested in collaborating with scientists, researchers, outdoor educators, and creative technologists.
 - ❤️ Python is still my favorite language.
@@ -62,7 +62,7 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **F1 Career Bumps** · Private source | An original Formula 1 data visualization exploring how driver careers evolve across seasons. | Data visualization |
+| **F1 Career Bumps** · [Live site](https://f1datadesktop.com/) · Private source | An original Formula 1 data visualization exploring how driver careers evolve across seasons. | Data visualization |
 | [The Avalanche Hour](https://github.com/CodrCam/TheAvalancheHourPodcast) · [Live site](https://www.theavalanchehour.com/) | A responsive podcast platform with episode search, season browsing, and Spotify integration. | Next.js, Material UI, Spotify API |
 | [Mountain High](https://github.com/CodrCam/mountainhigh) | A responsive photography showcase centered on skiing, climbing, and creative work. | React, JavaScript, CSS |
 | [TaskMaster](https://github.com/CodrCam/TaskMaster) | An Android task manager with local persistence and task-status tracking. | Java, Android, Room |
