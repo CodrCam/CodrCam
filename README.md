@@ -1,73 +1,73 @@
-![Welcome Banner](/skiBanner.jpg)
+<div align="center">
+  <img src="./skiBanner.jpg" alt="Cameron skiing in the mountains" width="100%" />
 
-# Welcome to my GitHub
+  <h1>Hi, I'm Cameron 👋</h1>
 
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on: completing the Java focused course at Code Fellows.
-- ❤️ My favorite language: Python
-- 🧑‍💻️ I’m always looking to collaborate with: scientist from any field
-- 🤔 Interests: Internet creativity, skiing, climbing, and snow science. 🧗
-- ⚡ Fun fact: My ultimate dream is to ski exeryday for an entire winter. 🎿
+  <p>
+    <strong>Developer, media maker, and mountain enthusiast building at the intersection of software, storytelling, and snow science.</strong>
+  </p>
 
-<br/>
+  <p>
+    <a href="https://www.linkedin.com/in/codrcam/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Cameron on LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/backcountrycam/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Cameron on Instagram" />
+    </a>
+  </p>
+</div>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## About me
 
-- 🧏 &nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-[Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+- 👨‍💻 I build web and mobile experiences with Python, JavaScript, Java, React, and Next.js.
+- 🏔️ I'm especially interested in technology for the outdoors, creative media, and snow science.
+- 🎙️ Recent work includes developing the digital home of [The Avalanche Hour](https://www.theavalanchehour.com/).
+- 🤝 I'm always interested in collaborating with scientists, researchers, outdoor educators, and creative technologists.
+- ❤️ Python is still my favorite language.
+- 😄 Pronouns: he/him.
+- 🎿 Long-term goal: ski every day for an entire winter.
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-- 💻 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+## Tech stack
 
+### Languages
 
-<br/>
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
-<p>
+### Web, APIs, and data
 
-## 📝 Recent Projects
-### [ Memory Gamer: ](https://memory-gamers.github.io/memory-game/)<br>
-Goal of the game is to play 2x4 grid. Grid is made of 8 cards total, where each card will be a pair of another card. Once both cards are selected, they will be removed from the grid. User plays until all matches are made.<br>
-Libraries Utilized: HTML, CSS, and Javascript
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-</p>
+### Tools and platforms
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+## Featured projects
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/codrcam/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.instagram.com/backcountrycam/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-</p>
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [The Avalanche Hour](https://github.com/CodrCam/TheAvalancheHourPodcast) · [Live site](https://www.theavalanchehour.com/) | A responsive podcast platform with episode search, season browsing, and Spotify integration. | Next.js, Material UI, Spotify API |
+| [Mountain High](https://github.com/CodrCam/mountainhigh) | A responsive photography showcase centered on skiing, climbing, and creative work. | React, JavaScript, CSS |
+| [TaskMaster](https://github.com/CodrCam/TaskMaster) | An Android task manager with local persistence and task-status tracking. | Java, Android, Room |
 
+## Let's connect
 
+I'm open to conversations about software, outdoor technology, scientific collaboration, media production, and ambitious mountain projects.
 
-<br/> 
-<p>
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=codrcam&theme=cobalt&show_icons=true&count_private=true" />
-</p>
-
------
-<h6>Template Credit: Jiji C.</h6>
+- [LinkedIn](https://www.linkedin.com/in/codrcam/)
+- [Instagram](https://www.instagram.com/backcountrycam/)
