@@ -65,7 +65,7 @@
 | **F1 Career Bumps** · [Live site](https://f1datadesktop.com/) · Private source | An original Formula 1 data visualization exploring how driver careers evolve across seasons. | Data visualization |
 | [The Avalanche Hour](https://github.com/CodrCam/TheAvalancheHourPodcast) · [Live site](https://www.theavalanchehour.com/) | A responsive podcast platform with episode search, season browsing, and Spotify integration. | Next.js, Material UI, Spotify API |
 | [Mountain High](https://github.com/CodrCam/mountainhigh) | A responsive photography showcase centered on skiing, climbing, and creative work. | React, JavaScript, CSS |
-| [TaskMaster](https://github.com/CodrCam/TaskMaster) | An Android task manager with local persistence and task-status tracking. | Java, Android, Room |
+| [Mountain Weather Lab](https://github.com/CodrCam/mountain-weather-lab) | An interactive Northern Washington snowpack and touring-access map combining live SNOTEL observations, history analysis, and terrain-aware snow surfaces. | Next.js, TypeScript, MapLibre, Netlify Functions |
 
 ## Let's connect
 
